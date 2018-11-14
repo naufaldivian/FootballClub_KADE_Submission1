@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Football Club</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <array name="club_description">
+        <item>FC Barcelona, also known simply as Barcelona and familiarly as Barça, is based in Barcelona, Catalonia,
+            Spain. The team was founded in 1899 by a group of Swiss, English and Spanish footballers led by Joan Gamper.
+            During the 20th century, \"Barça\" has become a Barcelona symbol, a symbol that represents the Catalan
+            identity as a nation. That\'s why it is said that \"Barça\" is more than a Club.
+        </item>
+        <item>Real Madrid C.F. are a professional football club based in Madrid, Spain. In addition to their domestic
+            success, Real Madrid\'s reputation as a major club was established by their outstanding record in the
+            European Cup. To date, they have been crowned champions of Europe a record thirteen times.
+        </item>
+        <item>FC Bayern Munich is a German sports club based in Munich, Bavaria. It is best known for its professional
+            football team, which plays in the Bundesliga, the top tier of the German football league system, and is the
+            most successful club in German football history, having won a record 28 national titles and 18 national
+            cups.
+        </item>
+        <item>Commonly known as City, is a football club in Manchester, England. Founded in 1880 as St. Mark\'s (West
+            Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. The club\'s home
+            ground is the City of Manchester Stadium in east Manchester, to which it moved in 2003, having played at
+            Maine Road since 1923.
+        </item>
+        <item>Commonly known as Man. United or simply United, is a professional football club based in Old Trafford,
+            Greater Manchester, England, that competes in the Premier League, the top flight of English football.
+            Nicknamed \"the Red Devils\", the club was founded as Newton Heath LYR Football Club in 1878, changed its name
+            to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910.
+        </item>
+        <item>Chelsea Football Club is a professional football club in London, England, that competes in the Premier
+            League. Founded in 1905, the club\'s home ground since then has been Stamford Bridge. Chelsea won the First
+            Division title in 1955, followed by various cup competitions between 1965 and 1971. The past two decades
+            have seen sustained success, with the club winning 23 trophies since 1997.
+        </item>
+        <item>Commonly referred to as A.C. Milan or simply Milan, is a professional football club in Milan, Italy,
+            founded in 1899. The club has spent its entire history, with the exception of the 1980–81 and 1982–83
+            seasons, in the top flight of Italian football, known as Serie A since 1929–30.
+        </item>
+        <item>Arsenal Football Club was founded in 1886 as a munition workers\' team from Woolwich, then in Kent, now
+            southeast London. They turned professional in 1891 and joined The Football League two years later. They were
+            promoted to the First Division in 1904 but financial problems meant they were liquidated and reformed. They
+            were bought out by Sir Henry Norris that year and to improve the club\'s financial standing, he moved the
+            team to Arsenal Stadium, Highbury, north London in 1913.
+        </item>
+    </array>
+
+</resources>
